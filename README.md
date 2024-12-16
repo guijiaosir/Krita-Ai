@@ -13,8 +13,10 @@ Krita 启动器 是一款免费公益的启动器，集成一键修复，一键�
 
 使用方法：
 ![image](https://github.com/user-attachments/assets/d0864de4-d926-4a1f-9601-ae4e5f8e8179)
+
 首先你需要设置ComfyUI目录
 ![image](https://github.com/user-attachments/assets/c3c024ae-5e54-4ddd-9114-f4a74f6e74d8)
+
 然后你需要设置Python目录
 ![image](https://github.com/user-attachments/assets/e53351af-da70-4b76-80aa-d060232c650e)
 
