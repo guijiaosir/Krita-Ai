@@ -5,7 +5,7 @@
 # ✨ Enjoy Krita Launcher！ ✨
 
 
-# [Download](https://github.com/guijiaosir/Krita-Ai/releases)                         [中文](README.md)                              [English](README.en.md)    
+# [Download](https://github.com/guijiaosir/Krita-Ai/releases)             &nbsp;&nbsp;&nbsp;&nbsp;            [中文](README.md)           &nbsp;&nbsp;&nbsp;&nbsp;                   [English](README.en.md)    
 
 Krita 启动器 是一款免费公益的启动器，集成一键修复，一键安装功能，能够实现脱离ComfyUI实现一键启动。
 
