@@ -4,7 +4,9 @@
 
 Krita Launcher is a free and public-interest launcher. Integrates one-click repair and one-click installation functions, and can achieve one-click startup without ComfyUI.
 
-✨This software is developed by the Xiaoguangmang development team for free# Video tutorial:
+✨This software is developed by the Xiaoguangmang development team for free#   
+
+✨Video tutorial:
 
 How to use:
 
