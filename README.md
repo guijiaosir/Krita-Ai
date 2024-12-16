@@ -26,6 +26,10 @@ Krita 启动器 是一款免费公益的启动器，集成一键修复，一键�
 设置完毕后会显示  
 ![image](https://github.com/user-attachments/assets/a60e8a73-0f9e-450d-b54d-9d93c5bbccc0)
 
+保持更新  当软件右上方出现红色字体，请点击更新软件
+![image](https://github.com/user-attachments/assets/39417113-816b-4ead-91c0-6d8e430ba692)
+
+
 如果你是海外用户，请使用海外镜像。
 ![image](https://github.com/user-attachments/assets/f4c0551b-1522-4d1d-a3f9-9c5b21fe1bdb)
 
