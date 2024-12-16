@@ -20,6 +20,10 @@ Then you need to set the Python directory
 After setting, it will be displayed   
 ![image](https://github.com/user-attachments/assets/a60e8a73-0f9e-450d-b54d-9d93c5bbccc0)
 
+When red text appears in the upper right corner of the software, you need to update the software.
+![image](https://github.com/user-attachments/assets/e773dd42-e9db-4da3-9ae0-4b9f8f03d7be)
+
+
 If you are an overseas user, please use the overseas mirror.  
 ![image](https://github.com/user-attachments/assets/f4c0551b-1522-4d1d-a3f9-9c5b21fe1bdb)
 
