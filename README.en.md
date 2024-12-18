@@ -7,7 +7,7 @@ Krita Launcher is a free and public-interest launcher. Integrates one-click repa
 ✨This software is developed by the Xiaoguangmang development team for free#   
 
 
-# ✨Video tutorial:[How to use tutorial？？？](https://www.youtube.com/watch?v=f2SXQRMx9cw)
+# ✨Video tutorial:[How to use tutorial？？？](https://www.youtube.com/watch?v=f2SXQRMx9cw)【Click on the link】
 # Please click to visit the youtube tutorial video
 
 
