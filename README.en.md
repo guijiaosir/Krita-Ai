@@ -32,3 +32,9 @@ If you are an overseas user, please use the overseas mirror.
 
 Scan error, display error problem. Subsequent versions will add a one-click repair function.
 ![image](https://github.com/user-attachments/assets/c9b4c362-dbf0-463b-9406-31d08f2938ba)
+
+# The development team is recruiting software promotion in Thailand, Vietnam, Japan, and Taiwan. If you are interested in joining the team and translating the software, please contact me.
+
+# Some antivirus software may report errors. The software does not contain any viruses. If you have any questions, you can contact the admin in discord.
+
+# Some plug-ins are encrypted and will be decompressed after running.
