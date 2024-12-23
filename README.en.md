@@ -1,4 +1,6 @@
-![image](https://github.com/user-attachments/assets/7ff74400-61e7-4fb8-9ef3-ff231f8c97e9) # krita ai launcher # ✨ Enjoy Krita Launcher! ✨
+![image](https://github.com/user-attachments/assets/a6bfd8ed-7398-4f4c-8329-d2edf6d87342)
+
+ # krita ai launcher # ✨ Enjoy Krita Launcher! ✨
 
 # [Download](https://github.com/guijiaosir/Krita-Ai/releases) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Chinese]( README.md) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [English](README.en.md)
 
