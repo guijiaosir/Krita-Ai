@@ -14,6 +14,8 @@ Krita 启动器 是一款免费公益的启动器，集成一键修复，一键�
 
 # ✨视频教学：[观看视频](https://www.youtube.com/watch?v=f2SXQRMx9cw)
 
+# ✨ 快速安装方法 ：[观看视频](https://youtu.be/3rAN-iwhPHk)
+
 使用方法：
 ![image](https://github.com/user-attachments/assets/d0864de4-d926-4a1f-9601-ae4e5f8e8179)
 
