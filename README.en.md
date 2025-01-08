@@ -13,7 +13,7 @@ Krita Launcher is a free and public-interest launcher. Integrates one-click repa
 
 # ✨ Quick installation method: [video](https://youtu.be/3rAN-iwhPHk)
 
-
+U can join https://discord.com/invite/32KQ29FrSB ASK question. thank you！
 
 How to use:
 
