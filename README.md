@@ -11,7 +11,9 @@
 Krita 启动器 是一款免费公益的启动器，集成一键修复，一键安装功能，能够实现脱离ComfyUI实现一键启动。
 
 目前这个项目已经停止开发，您可以通过访问这个页面获取【整合包】
-[整合包](https://afdian.com/p/7500a05abc1e11ef8aef52540025c377))
+https://pan.quark.cn/s/afa1baf15364
+https://pan.quark.cn/s/179ea3f47ecb
+https://pan.quark.cn/s/822765ffc964
 
 # ✨本软件 由小光芒 开发团队 免费开发 并且 永久免费 公益项目！
 
