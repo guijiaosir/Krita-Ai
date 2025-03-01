@@ -8,6 +8,21 @@ Krita Launcher is a free and public-interest launcher. Integrates one-click repa
 
 ✨This software is developed by the Xiaoguangmang development team for free#   
 
+---------------------------------------------------------------------------------------------------------------------
+
+
+# Notice: Currently this project has stopped development. You can get the integration package through the following address.
+
+https://pan.quark.cn/s/afa1baf15364
+
+https://pan.quark.cn/s/179ea3f47ecb
+
+https://pan.quark.cn/s/822765ffc964
+
+---------------------------------------------------------------------------------------------------------------------
+
+
+
 
 # ✨Video tutorial:[video](https://www.youtube.com/watch?v=f2SXQRMx9cw)
 
