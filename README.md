@@ -43,7 +43,8 @@ https://discord.com/invite/32KQ29FrSB
 ![image](https://github.com/user-attachments/assets/a60e8a73-0f9e-450d-b54d-9d93c5bbccc0)
 
 保持更新  当软件右上方出现红色字体，请点击更新软件
-![image](https://github.com/user-attachments/assets/39417113-816b-4ead-91c0-6d8e430ba692)
+![image](https://github.com/user-attachments/assets/eeb254ca-7c50-4ea9-a03c-a9c8e00bf368)
+
 
 
 如果你是海外用户，请使用海外镜像。
