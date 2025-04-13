@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/a6bfd8ed-7398-4f4c-8329-d2edf6d87342)
+![image](https://github.com/user-attachments/assets/4094f3a1-f15b-4551-a614-4c354971d721)
+
 
  # krita ai launcher # ✨ Enjoy Krita Launcher! ✨
 
