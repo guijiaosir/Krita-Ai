@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/76373428-051d-4e3f-83b6-cdb7b8b9cd2e)
+![image](https://github.com/user-attachments/assets/5b571808-dbd9-40ff-ae8f-77761a476ce5)
+
 
 
 # krita ai 启动器
