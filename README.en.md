@@ -1,3 +1,7 @@
+Please replace the latest launcher version, thank you.
+We have disabled the automatic update function.
+
+
 ![image](https://github.com/user-attachments/assets/4094f3a1-f15b-4551-a614-4c354971d721)
 
 
