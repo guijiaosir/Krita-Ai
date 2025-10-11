@@ -1,8 +1,9 @@
 请更换最新的启动器版本，谢谢。
 我们已经停用了自动更新功能。
 
-![image](https://github.com/user-attachments/assets/5b571808-dbd9-40ff-ae8f-77761a476ce5)
 
+
+<img width="1573" height="976" alt="image" src="https://github.com/user-attachments/assets/c8ecf62d-e5f0-4ca1-b4eb-cc795b645071" />
 
 
 # krita ai 启动器
